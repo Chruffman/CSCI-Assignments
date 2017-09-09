@@ -8,6 +8,7 @@ Created on August 25, 2016
 
 
 class Linked_List{
+
 private:
 
     struct node{

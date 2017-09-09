@@ -30,9 +30,8 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Linked_List.cpp" />
-		<Unit filename="linked_list.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
