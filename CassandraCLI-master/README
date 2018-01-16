@@ -1,0 +1,5 @@
+Project 2 from Data and Information Systems
+
+Program written in C to interact with the Cassandra NoSQL client using a command line interface that took in a few commands
+
+Skeleton code in the main.c loop was provided
